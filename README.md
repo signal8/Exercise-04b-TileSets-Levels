@@ -1,6 +1,7 @@
 # Exercise-04b-TileSets-Levels
 
 ## Implementation
+3 levels, yippeeeeee!!
 
 ## References
 
@@ -9,6 +10,7 @@ https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
 https://github.com/SebLague/2DPlatformer-Tutorial
 
 ## Future Development
+Whatever Nathan says, idk.
 
 ## Created by
-Nathan Mishler
+Levi Coffing, Master of Reality
